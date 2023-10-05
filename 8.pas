@@ -9,5 +9,5 @@ begin
 j:=j+(1/z);
 z:=z+1
 end;
-writeln(j)
+writeln(j:2:2)
 end.
